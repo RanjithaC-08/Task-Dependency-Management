@@ -34,10 +34,11 @@
 - MySQL 8.0+ (or SQLite for development)
 - Git
   
-### Backend Setup
+## Backend Setup
+```bash
 # Clone repository
-git clone https://github.com/RanjithaC-08/task-dependency-management.git
-cd task-dependency-management/backend
+git clone https://github.com/YOUR_USERNAME/task-dependency-system.git
+cd task-dependency-system/backend
 
 # Create virtual environment
 python -m venv venv
@@ -79,3 +80,5 @@ python manage.py createsuperuser
 
 # Run development server
 python manage.py runserver
+```
+

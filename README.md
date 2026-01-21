@@ -37,8 +37,8 @@
 ## Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/task-dependency-system.git
-cd task-dependency-system/backend
+git clone https://github.com/YOUR_USERNAME/task-dependency-management.git
+cd task-dependency-management/backend
 
 # Create virtual environment
 python -m venv venv

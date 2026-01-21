@@ -5,9 +5,9 @@
 ### Core Requirements
 #### - Task Management: Create, read, update, delete tasks
 #### - Circular Dependency Detection: DFS algorithm detects and prevents cycles
-#### * Auto Status Update: Tasks automatically update based on dependencies
-#### * Graph Visualization: Interactive SVG graph showing task relationships
-#### * Real-time Updates: Live updates without page refresh
+#### - Auto Status Update: Tasks automatically update based on dependencies
+#### - Graph Visualization: Interactive SVG graph showing task relationships
+#### - Real-time Updates: Live updates without page refresh
 ### Task Status Rules
 #### * All dependencies completed → Status: in_progress
 #### * Any dependency blocked → Status: blocked
